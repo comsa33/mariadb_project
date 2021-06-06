@@ -1,3 +1,6 @@
+# IPv4 : 59.3.242.92
+# user : root
+# password : 160813
 import pandas as pd
 
 df = pd.read_csv("hong_df.csv")
